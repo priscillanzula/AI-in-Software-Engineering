@@ -24,13 +24,11 @@ In this project we explored AI’s role in code generation, testing, and predict
 Run Jupyter Notebook for predictive modeling on breast cancer.
 
 
-
-### Results
 ![priority_cases](https://github.com/user-attachments/assets/4ee86def-398e-4b1c-9e94-fc30748e4ead)
 ![matrix](https://github.com/user-attachments/assets/4d3fd38f-6f0d-428c-bad3-3e1ab9e0fb07)
 ![classification_report](https://github.com/user-attachments/assets/8a5c3cc0-5a04-4116-8108-254b4a98bf9a)
 
-
+### Results
 Code Completion: AI suggestions reduced boilerplate by 40%.
 
 Testing: AI improved test coverage by 3x.
