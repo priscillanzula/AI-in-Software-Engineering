@@ -10,7 +10,7 @@ In this project we explored AI’s role in code generation, testing, and predict
     
 3. **Predictive Analytics**: Random Forest model for issue prioritization.
 
-  #### Supervised vs unsupervised learning
+  #### Supervised vs unsupervised learning bug detection
 
    ![super_un](https://github.com/user-attachments/assets/d78226d1-8fd0-4fa6-b1de-dfabfeb293ed)
 
