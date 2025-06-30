@@ -36,7 +36,7 @@ Predictive Model: 85% accuracy in issue prioritization.
     <tr>
       <td align="center">
         <a href="https://github.com/Doreenmongina">
-          <img src="https://avatars.githubusercontent.com/u/128931394?v=4" width="100;" alt="Doreen Mong'ina"/>
+          <img src="https://avatars.githubusercontent.com/u/128931394?v=4" ;" alt="Doreen Mong'ina"/>
           <br />
           <sub><b>Doreen Mong'ina</b></sub>
         </a>
@@ -64,7 +64,7 @@ Predictive Model: 85% accuracy in issue prioritization.
       </td>
       <td align="center">
         <a href="https://github.com/priscillanzula">
-          <img src="https://avatars.githubusercontent.com/u/144167777?v=4" width="100;" alt="priscillanzula"/>
+          <img src="https://avatars.githubusercontent.com/u/144167777?v=4" ;" alt="priscillanzula"/>
           <br />
           <sub><b>Priscilla Nzula</b></sub>
         </a>
